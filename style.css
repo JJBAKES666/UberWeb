@@ -1,0 +1,63 @@
+body{
+	background: yellow;
+}
+img{
+	height: 200px
+}
+div.Main1{
+	height: 300px;
+	width: 300px;
+	position: absolute;
+	top: 0px;
+	left: 400px;
+	right: 200px;
+	bottom: 200px;
+	margin: all;
+	
+	
+
+}
+div.Nav{
+	height: 200px;
+	width: 150px;
+	background-color: orange;
+
+
+}
+div.Main2{
+	height: 300px;
+	width: 300px;
+	position: absolute;
+	top: 118px;
+	left: 750px;
+	right: 200px;
+	bottom: 200px;
+	margin: all;
+    
+}
+
+div.Main3{
+	height: 300px;
+	width: 300px;
+	position: absolute;
+	top: 350px;
+	left: 750px;
+	right: 200px;
+	bottom: 200px;
+	margin: all;
+    
+}
+
+
+
+div.Main4{
+	height: 300px;
+	width: 300px;
+	position: absolute;
+	top: 350px;
+	left: 400px;
+	right: 200px;
+	bottom: 200px;
+	margin: all;
+    
+}
