@@ -1,3 +1,9 @@
+ body{
+width: 100%;
+height: 100%;
+min-width: 1000px;
+min-height: 1000px;
+}
 body{
 	background: yellow;
 }
@@ -19,8 +25,15 @@ div.Main1{
 }
 div.Nav{
 	height: 200px;
-	width: 150px;
-	background-color: orange;
+	width: 200px;
+	background-color: yellow;
+	position: absolute;
+	top: 220px;
+	left: 100px;
+	right: 200px;
+	b
+	
+	margin: all;
 
 
 }
@@ -59,5 +72,13 @@ div.Main4{
 	right: 200px;
 	bottom: 200px;
 	margin: all;
+	border: 5px;
+	border-color: rgb(0,0,0);
     
 }
+div.Super{
+	position: all;
+	background: red;
+	margin: 300px;
+}
+
